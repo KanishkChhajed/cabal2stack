@@ -1,6 +1,52 @@
-# cabal2stack
-
-This is a tool to create a `stack.yaml` file replicating a build plan
-constructed by `cabal-install`.  To use, first run `cabal build --dry-run` to
-produce a `plan.json` file under `dist-newstyle/cache`, then run `cabal2stack`
-to output a corresponding `stack.yaml`.
+<h1 align="center">
+    <img src="https://img.shields.io/badge/cabal2stack-🎯-blueviolet?style=for-the-badge" alt="Repo Badge">
+  </h1>
+  
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/121193249?v=4" width="100" style="border-radius:50%;">
+  </p>
+  
+  ---
+  
+  ## 📖 About the Project
+  - **Repository Name:** cabal2stack
+  - **Owner:** KanishkChhajed
+  - **Visibility:** public
+  - **Primary Language(s):** Haskell
+  
+  ---
+  
+  ## 📊 Stats
+  
+  | Stars | Forks | Watchers | Open Issues | Closed Issues |
+  |:----:|:-----:|:--------:|:-----------:|:-------------:|
+  | 0 | 0 | 0 | 0 | 0 |
+  
+  ---
+  
+  ## 📢 Last Commit
+  
+  > "Adding my workflow for testing"
+  
+  ---
+  
+  ## 🤝 Contributors
+  
+  
+  - [`adamgundry`](#)
+  
+  - [`phadej`](#)
+  
+  - [`philderbeast`](#)
+  
+  - [`etherz10`](#)
+  
+  - [`adinapoli`](#)
+  
+  - [`KanishkChhajed`](#)
+  
+  
+  ---
+  
+  > *Generated with ❤️ by an automated GitHub Action* 🚀
+  
